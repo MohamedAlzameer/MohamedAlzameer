@@ -88,17 +88,6 @@ fun_fact: "Also coaches basketball 🏀 — trains people on and off the court"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAlzameer&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
 </div>
 
----
-
-
-
----
-
-
-
-> ⚙️ To activate the snake animation above, add the **"snk"** GitHub Action to this repo (see setup note at the bottom).
-
----
 
 <div align="center">
 
