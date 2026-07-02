@@ -90,19 +90,11 @@ fun_fact: "Also coaches basketball 🏀 — trains people on and off the court"
 
 ---
 
-### 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAlzameer&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
 
 ---
 
-### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohamedAlzameer/MohamedAlzameer/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
 
 > ⚙️ To activate the snake animation above, add the **"snk"** GitHub Action to this repo (see setup note at the bottom).
 
